@@ -518,10 +518,16 @@
   name: Mirko Hanke
   last: Hanke
   pronouns: he/him/his
-  institution: University of Texas Libraries
-  position-title:
-  bio:
-  image_alt:
+  institution: University of Texas Libraries (University of Texas at Austin)
+  position-title: Head of Preservation & Digital Stewardship
+  bio: I oversee the preservation program for the University of Texas Libraries, which includes digital 
+    preservation, digitization, digital asset management, digital archives support, and traditional preservation.
+    My team members and I collaborate with content curators and other relevant stakeholders in the organization 
+    to address preservation needs across the Libraries' collections. When I am not at work I enjoy running and knitting, 
+    though rarely at the same time.
+  image_alt: Portrait photograph of a middle-aged white man with balding grey hair and a thick-rimmed glasses. 
+    He is wearing a checkered shirt and smiles uncomfortably into the camera.
+  image_src: /assets/img/speakers/mirko-hanke.jpg
   keynote: false
 - id: monique-rio
   name: Monique Rio
