@@ -373,9 +373,10 @@
   last: Chen
   pronouns: she/her/hers
   institution: Harvard University - Library Technology Services
-  position-title:
-  bio:
-  image_alt:
+  position-title: Software Engineer
+  bio: Hello World! I'm JJ (Jiajie) Chen, a software and data engineer with an interest in AI/ML, distributed system architecture, and scientific computing.
+  image_alt: An Asian woman with long black hair and circular, metal-framed glasses.
+  image_src: /assets/img/speakers/jj-chen.jpg
   keynote: false
 - id: john-dewees
   name: John Dewees
