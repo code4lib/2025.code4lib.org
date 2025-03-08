@@ -309,15 +309,15 @@
   image_alt: 
   keynote: false
 - id: javier-ruedas
-- name: Javier Ruedas
-- last: Ruedas
-- pronouns:
-- institution: University of Texas at San Antonio
-- position-title: Information Specialist, Digital Projects
-- bio: Javier Ruedas is an Information Specialist working on digital projects for UTSA Libraries. He has a background in web programming and tech education. He spent several years working for tech boot camps before coming to UTSA. He has worked with multiple full-stack web development frameworks, from early days with PHP and MySQL, to Ruby on Rails, Spring Boot, and JavaScript stacks with NoSQL. Javier's formal education is in anthropology and information studies, and he has carried out fieldwork in the Javari River Basin, Brazil.
-- image_src: /assets/img/speakers/javier-ruedas.jpg
-- image_alt: A person wearing glasses with no rims gazes awkwardly into the camera, attempting a friendly smile. He has gray-streaked hair in a ponytail and wears a blue guayabera.
-- keynote: false
+  name: Javier Ruedas
+  last: Ruedas
+  pronouns:
+  institution: University of Texas at San Antonio
+  position-title: Information Specialist, Digital Projects
+  bio: Javier Ruedas is an Information Specialist working on digital projects for UTSA Libraries. He has a background in web programming and tech education. He spent several years working for tech boot camps before coming to UTSA. He has worked with multiple full-stack web development frameworks, from early days with PHP and MySQL, to Ruby on Rails, Spring Boot, and JavaScript stacks with NoSQL. Javier's formal education is in anthropology and information studies, and he has carried out fieldwork in the Javari River Basin, Brazil.
+  image_src: /assets/img/speakers/javier-ruedas.jpg
+  image_alt: A person wearing glasses with no rims gazes awkwardly into the camera, attempting a friendly smile. He has gray-streaked hair in a ponytail and wears a blue guayabera.
+  keynote: false
 - id: jen-diamond
   name: Jen Diamond
   last: Diamond
