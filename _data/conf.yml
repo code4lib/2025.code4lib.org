@@ -491,8 +491,8 @@ live-captioning:
 quiet-room:
   show: true
   # Room number(s)
-  location: 'Calm Room in the Lewis Library 2nd floor'
-  notes: There is also a space called the Relaxation Station in the Engineering Library B floor stacks which provides a calming environment to unwind with puzzles, coloring, and a weighted blanket.
+  location: 'Friend Center 004'
+  notes: A classroom on the lower level, with carpet and dimmable lights.
 
 public-transportation:
   show: true
