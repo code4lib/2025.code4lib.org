@@ -37,6 +37,11 @@
   link: https://notch8.com/
   level: bronze
 
+- name: Index Data
+  img: /assets/img/sponsors/indexdata.jpg
+  link: https://indexdata.com/
+  level: bronze
+
 - name: Princeton University Library
   img: /assets/img/sponsors/princeton-library.png
   link: https://library.princeton.edu/
@@ -64,6 +69,11 @@
 - name: Carnegie Mellon University Libraries
   img: /assets/img/sponsors/cmu-library.jpeg
   link: https://library.cmu.edu/
+  level: supporter
+
+- name: Project Reshare
+  img: /assets/img/sponsors/reshare.png
+  link: https://projectreshare.org/
   level: supporter
 
 - name: ArchivesSpace 
