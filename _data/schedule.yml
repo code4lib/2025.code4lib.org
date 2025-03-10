@@ -92,6 +92,27 @@
   title: Lightning Talks 2
   day2: true
   time: 10:15-11:15
+  sessions:
+  - presenter: Heather Greer Klein
+    title: OSS vs. The Rot Economy
+  - presenter: Maccabee Levine
+    title: ProQuest ❤️ EBSCO
+  - presenter: tba
+    title: Folio API Integration Project
+  - presenter: Jennifer Stubbs
+    title: CV of Failure
+  - presenter: Stephen Goeman
+    title: Unexpected Character
+  - presenter: Matthew Swinehart
+    title: Finding the Fun
+  - presenter: Eric Morgan
+    title: Indexes and Study Carrels
+  - presenter: Ninh Tran
+    title: Enhance Accessibility for Digital Collections
+  - presenter: Natasha Allen
+    title: tba
+  - presenter: Ryan Hedrick
+    title: Data Science Courses in ALA-Accredited LIS Programs
 
 - timeImg: 10.00.png
   title: Lightning Talks 3
