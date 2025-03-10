@@ -179,12 +179,12 @@ anonymous-form: 'https://css4csv.clir.org/anonymous-incident-report-form/'
 homepage-display: peri
 
 livestream:
-  show: false
+  show: true
   button-label: 'Join Livestream'
   url: 'https://www.youtube.com/c/Code4Lib'
 
 slides:
-  show: false
+  show: true
   url: 'https://osf.io/meetings/c4l25'
   contact: ''
   email: ''
@@ -241,7 +241,7 @@ peri:
 # If false, hides sponsors link in navigation and footer
 show-sponsors: true
 # Toggles whether prospectus button displays on homepage and sponsor pages
-sponsor-buttons: true
+sponsor-buttons: false
 # if true, the nav/footer links go to /prospectus/ instead of /sponsors/
 # for use early on when we are looking for, but do not have many, sponsors
 sponsors-links-to-prospectus: false
