@@ -377,6 +377,12 @@ tours:
   date: '2025-03-12'
   time: '3PM to 5PM'
   tours:
+    - name: 'Campus Tour (2pm)'
+      date: '2025-03-12'
+      time: '2pm'
+      location: 'In front of the <a href="https://maps.app.goo.gl/uNBrDzcC8ePni2Sa9">Friend Center</a>'
+      sign-up-url: https://docs.google.com/forms/d/e/1FAIpQLScy4oEFs2R1uLk2MYQDw8IWZ-cLf7KRVYZYXcagUcolrut8fA/viewform
+      sign-up-button-text: 'Sign Up (2pm)'
     - name: 'Lewis Library (3pm)'
       date: '2025-03-12'
       time: '3pm'
