@@ -70,19 +70,21 @@
   - presenter: Maria Matienzo
     title: The Buddy System
   - presenter: Liyang Qu
-    title: When Is an AI Recommender Better than the Default?
+    title: Evaluating an AI-Based Recommendation Engine
   - presenter: Jonathan Rochkind
     title: Bot Protection of Selected Paths with Cloudflare Turnstile
   - presenter: Matt Niehoff
     title: Permanent Scaffolding
     link: http://z.umn.edu/mjn-code4lib
   - presenter: Jason Griffey
-    title: NISO Introduction
+    title: Standards Need You!
     link: https://niso.org
-#    link: 
-#  - presenter: 
-#    title: 
-#    link: 
+  - presenter: Daniel Sanford
+    title: Bots Strip-mined our Site
+  - presenter: Matt Sherman
+    title: 90s Mac Diskettes
+  - presenter: Eric Morgan
+    title: How to Make a Book
 
 - timeImg: 10.15.png
   title: Lightning Talks 2
