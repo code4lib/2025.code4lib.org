@@ -66,6 +66,14 @@
   title: Lightning Talks 1
   day1: true
   time: 13:45-14:30
+  sessions:
+  - presenter: Maria Matienzo
+    title: The Buddy System
+  - presenter: Liyang Qu
+    title: When Is an AI Recommender Better than the Default?
+  - presenter: Jonathan Rochkind
+    title: Bot Protection of Selected Paths with Cloudflare Turnstile
+#    link: https://osf.io/cnpve/
 
 - timeImg: 10.15.png
   title: Lightning Talks 2
