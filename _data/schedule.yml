@@ -73,7 +73,16 @@
     title: When Is an AI Recommender Better than the Default?
   - presenter: Jonathan Rochkind
     title: Bot Protection of Selected Paths with Cloudflare Turnstile
-#    link: https://osf.io/cnpve/
+  - presenter: Matt Niehoff
+    title: Permanent Scaffolding
+    link: http://z.umn.edu/mjn-code4lib
+  - presenter: Jason Griffey
+    title: NISO Introduction
+    link: https://niso.org
+#    link: 
+#  - presenter: 
+#    title: 
+#    link: 
 
 - timeImg: 10.15.png
   title: Lightning Talks 2
