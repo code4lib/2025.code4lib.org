@@ -107,14 +107,14 @@
 
 # Lunches
 - timeImg: 12.00.png
-  title: Lunch
+  title: Lunch at Prospect House
   day1: true
   time: 12:00-13:30
   menu: day1-menus
   submenu: Lunch
 
 - timeImg: 12.00.png
-  title: Lunch
+  title: Lunch at Prospect House
   day2: true
   time: 12:00-13:30
   menu: day2-menus
