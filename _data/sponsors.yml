@@ -65,6 +65,12 @@
   link: https://ischool.illinois.edu/
   level: contributor
 
+- name: Penn St. University Libraries
+  img: /assets/img/sponsors/penn-st-u-libraries.png
+  link: https://libraries.psu.edu/
+  level: contributor
+  diversity: true
+
 # supporter
 - name: Carnegie Mellon University Libraries
   img: /assets/img/sponsors/cmu-library.jpeg
@@ -76,7 +82,7 @@
   link: https://projectreshare.org/
   level: supporter
 
-- name: ArchivesSpace 
+- name: ArchivesSpace
   img: /assets/img/sponsors/archivesspace_logo.jpg
   link: https://archivesspace.org/
   level: supporter
