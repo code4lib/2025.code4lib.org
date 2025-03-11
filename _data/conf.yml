@@ -375,7 +375,7 @@ reception:
 tours:
   show: true
   date: '2025-03-12'
-  time: '3PM to 5PM'
+  time: '2PM to 5PM'
   tours:
     - name: 'Campus Tour (2pm)'
       date: '2025-03-12'
