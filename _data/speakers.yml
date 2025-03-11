@@ -655,13 +655,19 @@
   image_alt: 
   keynote: false
 - id: timothy-a-thompson
-  name: Timothy A. Thompson
+  name: Tim Thompson
   last: Thompson
   pronouns: he/him/his
-  institution: Yale University Library
-  position-title:
-  bio:
-  image_alt:
+  institution: Yale Library
+  position-title: Manager, Metadata Services Unit
+  bio: "Tim Thompson, an information professional with 10+ years of expertise in metadata
+    operations, manages the Metadata Services Unit at Yale University. With master’s degrees in
+    library science and data science, he specializes in metadata creation, analysis, and
+    transformation across various standards. Since 2016, he has focused on linked data
+    standards and semantic modeling for cultural heritage materials."
+  image_alt: "Tim, a middle-aged white male with short, slightly graying hair and beard, flashes a
+    friendly smile in black and white. Pictured from the shoulders up, he wears a spotted tie.
+    Behind him is a blurred metal bookcase full of books."
   keynote: false
 - id: vickie-karasic
   name: Vickie Karasic
