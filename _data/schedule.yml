@@ -55,6 +55,12 @@
   title: Breakout Sessions 1
   day2: true
   time: 16:00-17:00
+  sessions:
+  - title: ArchivesSpace Discussion w/Program Team Devs (<b>Friend Center 108</b>)
+  - title: How to Index Subject Headings (<b>Friend Center 109</b>)
+  - title: How to Defend Yourself Against a Dagger-Armed Brigand in Quattrocento Italy (Reprise) (<b>Courtyard</b>)
+  - title: Digitization Workflows (<b>Friend Center 110</b>)
+  - title: Local and Open Source Discovery Systems (<b>Friend Center 111</b>)
 
 - timeImg: 11.00.png
   title: Breakout Sessions 2
