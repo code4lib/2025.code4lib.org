@@ -9,6 +9,7 @@ day: 2
 group: 6
 spot: 3
 location: friend
+status: canceled
 speakers:
 - devon-murphy
 speaker-text: Devon Murphy

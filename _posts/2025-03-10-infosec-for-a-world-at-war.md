@@ -9,6 +9,7 @@ day: 1
 group: 2
 spot: 1
 location: friend
+status: canceled
 speakers:
 - bess-sadler
 speaker-text: Bess Sadler
