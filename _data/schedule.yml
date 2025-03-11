@@ -113,6 +113,10 @@
     title: tba
   - presenter: Ryan Hedrick
     title: Data Science Courses in ALA-Accredited LIS Programs
+  - presenter: Ray Schwartz
+    title: Project Gutenberg MARC Records
+  - presenter: Mike Paulmeno
+    title: Redesigning a Library Website with Astro
 
 - timeImg: 10.00.png
   title: Lightning Talks 3
