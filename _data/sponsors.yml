@@ -1,4 +1,10 @@
 # gold
+- name: Princeton University Library
+  img: /assets/img/sponsors/princeton-library.png
+  link: https://library.princeton.edu/
+  level: gold
+  annotation: 'Reception Sponsor'
+
 - name: Blacklight
   img: /assets/img/sponsors/blacklight-logo-vectorized.svg
   link: https://projectblacklight.org
