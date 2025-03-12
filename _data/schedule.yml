@@ -67,6 +67,14 @@
   title: Breakout Sessions 2
   day3: true
   time: 11:00-11:45
+  sessions:
+  - title: "The good tools for Ally WCAG testing (<b>Friend Center 108</b>)"
+  - title: "Documentation (best and non-best practices) and Communication (<b>Friend Center 109</b>)"
+  - title: "Working with Small Teams (<b>Friend Center 110</b>)"
+  - title: "Does anyone want to talk more about subject headings? (<b>Outside-street side</b>)"
+  - title: "Carpentries: What is it? (<b>Friend Center 112</b>)"
+  - title: "AI Driven IDE for Dev & Git commits (<b>Friend Center 101 Auditorium</b>)"
+  - title: "Archiving Weird Collections (<b>Friend Center 101 Auditorium</b>)"
 
 # lightning
 - timeImg: 1.45.png
