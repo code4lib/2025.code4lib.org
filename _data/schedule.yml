@@ -129,6 +129,23 @@
   title: Lightning Talks 3
   day3: true
   time: 10:00-10:45
+  sessions:
+  - presenter: Justin Wadland
+    title: "Software Carpentry Builds Community"
+  - presenter: Carla Galarza
+    title: "The Shelf"
+  - presenter: MetaGeeky
+    title: "Reader Advisory: Tech Adoption"
+  - presenter: Kim Leaman
+    title: "Behind the Scenes: Come Visit The Digital Studio!"
+  - presenter: Barak Zahavy
+    title: "Time-lapse with GoPro Labs"
+  - presenter: Christy Bailey-Tomecek
+    title: "Embracing the Jank - DIY Music Enthusiasts"
+  - presenter: Ann Marie Mesco
+    title: "Code4Lib Committees (why volunteering is important)"
+  - presenter: Alex Guo
+    title: "My experiences in Big Tech"
 
 # Poster Session
 - timeImg: 3.15.png
