@@ -1,7 +1,7 @@
 # 2025.code4lib.org
 
 ## Intro
-
+x
 This site is developed by the [Code4Lib 2025 Conference Committee Website Working Group](https://wiki.code4lib.org/Code4Lib_2025_Conference_Committees#Website_Working_Group) based on a design by the [2016 working group](https://wiki.code4lib.org/2016_Conference_Committees#Website_Working_Group). A great deal of conference and organizational info can be found on the [Code4Lib Wiki](https://wiki.code4lib.org/Main_Page) and the [Code4Lib Site](https://code4lib.org), but this site should serve as a gateway to the various sources of Code4Lib information while providing visitors with a user-friendly way to find conference-specific info.
 
 This site is designed with future users in mind, so the group chose platforms that would be accessible to a wide range of users: [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com).
@@ -49,7 +49,7 @@ See a list of [open issues](https://github.com/code4lib/2025.code4lib.org/issues
 9. Switch back to the main branch
   * ```git checkout main```
 10. Go to https://github.com/code4lib/2025.code4lib.org
-11. Make a pull request base:master and compare:issue-3
+11. Make a pull request base:main and compare:issue-3
 12. Wait for someone to test your changes and merge the pull request
 13. Do the dance of joy 🎉
 
@@ -62,4 +62,4 @@ See a list of [open issues](https://github.com/code4lib/2025.code4lib.org/issues
   * ```git checkout BRANCHNAME```
 4. ```bundle exec jekyll serve```
 5. Check [http://localhost:4000](http://localhost:4000) that nothing is broken
-6. Merge that branch into master (easiest to manage on the GitHub site)
+6. Merge that branch into main (easiest to manage on the GitHub site)
