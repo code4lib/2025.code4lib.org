@@ -1,7 +1,6 @@
 # 2025.code4lib.org
 
 ## Intro
-x
 This site is developed by the [Code4Lib 2025 Conference Committee Website Working Group](https://wiki.code4lib.org/Code4Lib_2025_Conference_Committees#Website_Working_Group) based on a design by the [2016 working group](https://wiki.code4lib.org/2016_Conference_Committees#Website_Working_Group). A great deal of conference and organizational info can be found on the [Code4Lib Wiki](https://wiki.code4lib.org/Main_Page) and the [Code4Lib Site](https://code4lib.org), but this site should serve as a gateway to the various sources of Code4Lib information while providing visitors with a user-friendly way to find conference-specific info.
 
 This site is designed with future users in mind, so the group chose platforms that would be accessible to a wide range of users: [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com).
