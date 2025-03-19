@@ -176,11 +176,11 @@ anonymous-form: 'https://css4csv.clir.org/anonymous-incident-report-form/'
 # - post:   for after the conference is over
 #
 ####################
-homepage-display: peri
+homepage-display: post
 
 livestream:
   show: true
-  button-label: 'Join Livestream'
+  button-label: 'Livestream'
   url: 'https://www.youtube.com/c/Code4Lib'
 
 slides:
