@@ -31,6 +31,7 @@
                 <p class="alert alert-warning">This workshop is near capacity.</p>
             {% endif %}
 
+
             <p>{{ content }}</p>
 
             {% if page.learning-outcomes or page.attendee-requirements %}
@@ -68,6 +69,10 @@
                     {% endif %}
                 {% endfor %}
             {% endfor %}
+
+            {% if page.link %}
+              <a class="btn ct-btn-light" href="{{ page.link }}">Recording</a>
+            {% endif %}
 
             {% if show_speakers %}
                 <h2>Speaker(s)</h2>

@@ -73,7 +73,14 @@
                                 {% elsif event.groupId == 'key-close' %}
                                 {% else %}
                                     
-                                <h3 class="h4 talk-title">{% if talk.status == "canceled" %}<s>{% endif %}<a href="{{ talk.url }}">{{ talk.title }}</a>{% if talk.status == "canceled" %}</s>{% endif %}</h3>
+                                <h3 class="h4 talk-title">
+                                  {% if talk.status == "canceled" %}<s>{% endif %}
+                                  <a href="{{ talk.url }}">{{ talk.title }}</a>
+                                  {% if talk.status == "canceled" %}</s>{% endif %}
+                                  {% if talk.link %}
+                                    &nbsp;<a class="btn ct-btn-light" href="{{ talk.link }}">Recording</a>
+                                  {% endif %}
+                                </h3>
                                 {% endif %}
                             </div>
                             <div class="col-12 d-none d-md-flex flex-wrap">
